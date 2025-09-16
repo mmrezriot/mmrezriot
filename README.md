@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-I'm <b>mmreziot</b>, a passionate Front-End Developer and Tech Team Lead with over 6 years of experience in designing and developing scalable, high-performance web applications.
+I'm <b>mohammadreza</b>, a passionate Front-End Developer and Tech Team Lead with over 6 years of experience in designing and developing scalable, high-performance web applications.
 <br>
 I specialize in modern JavaScript frameworks and have led multiple successful technical and support teams.
 </p>
